@@ -1,0 +1,107 @@
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
+  color: grey;
+}
+
+#header{
+    margin: 0;
+    padding: 0;
+}
+
+#navbar{
+    margin: 0;
+    padding-left: 750px;
+}
+#navbar ul {
+    margin: 0;
+    padding: 0;
+    left: 30px;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap:10px;
+    height: 60px;
+    color: blue;
+    
+  }
+
+  .sosmed-link{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 12px;
+  }
+
+#home{
+    margin:0;
+    padding: 80px 30px 50px 100px;
+    color: grey;
+}
+
+#about{
+    margin-right: 350px ;
+    padding: 80px 200px 50px 100px;
+    color: grey;
+}
+
+.section-skill{
+    margin:0;
+    padding: 0;
+    display: flex;
+    gap: 8px;
+}
+
+#works{
+    margin: 0;
+    padding: 80px 150px 50px 100px;
+    color: grey;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 24px;
+}
+
+.box{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+#hobby{
+    margin: 0;
+    padding: 80px 150px 50px 100px;
+    color: grey;
+}
+
+.grid-hobby{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 30px;
+}
+
+.box-hobby{
+  padding-right: 30px;
+}
+
+.music{
+    padding: 30px 50px 30px 100px;
+}
+
+.ball{
+    padding: 0 60px 30px 60px;
+}
+
+
+
+
+
+
+
+
